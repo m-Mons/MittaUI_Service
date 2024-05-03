@@ -1,0 +1,17 @@
+{
+  "name": "com.mitta.mitta-ui.service",
+  "displayName": "MittaUI.Service",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "license": "MIT",
+  "dependencies": {
+    "com.mitta.mitta-ui": "0.0.1",
+    "com.cysharp.unitask": "2.0.0"
+  },
+  "author": {
+    "name": "hoge",
+    "url": ""
+  },
+  "type": "tool",
+  "description": ""
+}
